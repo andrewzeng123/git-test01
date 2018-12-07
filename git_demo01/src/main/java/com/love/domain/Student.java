@@ -10,5 +10,7 @@ public class Student {
     private Integer age;
     private String moblile;
     private String address;
+    private double price;
+    private String aaa;
     private String bbb;
 }

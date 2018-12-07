@@ -8,6 +8,7 @@ package com.love.domain;
 public class Student {
     private String name;
     private Integer age;
+    private String moblile;
     private String address;
     private double price;
 }
